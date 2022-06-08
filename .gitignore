@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> 5aba1e2839d996bfeb98e339bc405bc64b38d4a7
 node_modules
 coverage
 junit.xml
